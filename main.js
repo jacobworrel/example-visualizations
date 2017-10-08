@@ -9,6 +9,46 @@ const data = [
     "src": "https://www.youtube.com/embed/39udgGPyYMg",
     "scalingParameter": 3495856,
     "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
   }
 ]
 
@@ -18,7 +58,7 @@ const config = {
   diameter: window.innerWidth <= 640 ? 350 : 600,
   zoom: 2.5,
   resolutionThresholds: [250, 500],
-  autoplay: false,
+  autoplay: true,
   loop: false,
   onDoubleClick: 'expandBubble'
 }
@@ -36,6 +76,41 @@ const data2 = [
     "scalingParameter": 3495856,
     "v_id": "88",
     "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
+  },
+  {
+    "src": "https://www.youtube.com/embed/39udgGPyYMg",
+    "scalingParameter": 3495856,
+    "type": "youtube"
   }
 ]
 
@@ -45,7 +120,7 @@ const config2 = {
   diameter: window.innerWidth <= 640 ? 350 : 600,
   zoom: 2.5,
   resolutionThresholds: [250, 500],
-  autoplay: false,
+  autoplay: true,
   loop: false,
   onDoubleClick: 'expandBubble'
 }
